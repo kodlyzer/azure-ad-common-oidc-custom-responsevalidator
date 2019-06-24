@@ -1,0 +1,26 @@
+{
+  "name": "azure-ad-common-oidc-custom-responsevalidator",
+  "version": "1.0.0",
+  "description": "In this article we will go through the code we've used to achieve Azure AD common endpoint support from [oidc-client](https://github.com/IdentityModel/oidc-client-js) library in our AuthenticationService.",
+  "main": "ResponseValidator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tipsanemonk/azure-ad-common-oidc-custom-responsevalidator.git"
+  },
+  "keywords": [
+    "azure",
+    "oidc",
+    "common",
+    "endpoint",
+    "ad"
+  ],
+  "author": "tipsanemonk",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/tipsanemonk/azure-ad-common-oidc-custom-responsevalidator/issues"
+  },
+  "homepage": "https://github.com/tipsanemonk/azure-ad-common-oidc-custom-responsevalidator#readme"
+}
